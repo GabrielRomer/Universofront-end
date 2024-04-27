@@ -1,7 +1,7 @@
-import axios from 'axios';
+import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://universofront-end-p84r.vercel.app/", // Defina o endereço base da sua API
+  baseURL: import.meta.env.VITE_API_URL, // Usando a variável de ambiente para definir o baseURL,
 });
 
 export default api;
