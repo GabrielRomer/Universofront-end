@@ -11,17 +11,17 @@ class Headers extends React.Component {
           <Container>
             <Navbar.Brand>Universo Front-end</Navbar.Brand>
             <Nav className="me-auto">
-              <Nav.Link href="http://localhost:5173/Home#features">
+              <Nav.Link href="https://universofront-end-p84r.vercel.app/Home#features">
                 Home
               </Nav.Link>
 
-              <Nav.Link href="http://localhost:5173/conteudo#features">
+              <Nav.Link href="https://universofront-end-p84r.vercel.app/conteudo#features">
                 Linguagem Padrão
               </Nav.Link>
-              <Nav.Link href="http://localhost:5173/conteudo2#features">
+              <Nav.Link href="https://universofront-end-p84r.vercel.app/conteudo2#features">
                 Linguagem de Programação
               </Nav.Link>
-              <Nav.Link href="http://localhost:5173/contato#features">
+              <Nav.Link href="https://universofront-end-p84r.vercel.app/contato#features">
                 Contatos
               </Nav.Link>
             </Nav>

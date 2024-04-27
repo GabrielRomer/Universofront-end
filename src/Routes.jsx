@@ -4,7 +4,6 @@ import Contato from "./assets/Paginas/Contato";
 import Conteudo from "./assets/Paginas/Conteudo";
 import Conteudo2 from "./assets/Paginas/Conteudo2";
 
-
 function Rotas() {
   return (
     <BrowserRouter>

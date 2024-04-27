@@ -15,9 +15,13 @@
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.2",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-router-dom": "^6.22.3",
     "reactstrap": "^9.2.2",
     "video.js": "^8.10.0"
+=======
+    "react-router-dom": "^6.22.3"
+>>>>>>> 420999b17fb2a32d39168d937ee7bbb8080e6d2d
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
